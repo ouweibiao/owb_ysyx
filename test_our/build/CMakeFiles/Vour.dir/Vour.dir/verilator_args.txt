@@ -1,0 +1,1 @@
+/usr/local/bin/verilator_bin;--compiler;gcc;--prefix;Vour;--Mdir;/home/owb/ysyx_workbench/test_our/build/CMakeFiles/Vour.dir/Vour.dir;--make;cmake;--cc;our.v

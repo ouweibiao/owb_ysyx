@@ -1,0 +1,3 @@
+/home/owb/ysyx_workbench/test_our/build/CMakeFiles/Vour.dir
+/home/owb/ysyx_workbench/test_our/build/CMakeFiles/edit_cache.dir
+/home/owb/ysyx_workbench/test_our/build/CMakeFiles/rebuild_cache.dir
